@@ -1,4 +1,5 @@
 .docker/ssl/*.crt
 .docker/ssl/*.key
 .docker/ssl/*.pem
+.docker/mysql/*
 workspace/*
