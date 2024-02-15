@@ -2,4 +2,5 @@
 .docker/ssl/*.key
 .docker/ssl/*.pem
 .docker/mysql/*
+.docker/redis/dump.rdb
 workspace/*
